@@ -1,3 +1,3 @@
-var length = function("I miss Amila) {
+var length = function("I miss Amila") {
 	console.log(length.length);
 }
