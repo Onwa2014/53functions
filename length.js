@@ -1,3 +1,3 @@
-var length = function("I miss Amila") {
-	console.log(length.length);
+function length(string) {
+	return string.length;
 }
