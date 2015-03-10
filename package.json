@@ -16,6 +16,7 @@
     "url": "https://github.com/Onwa2014/53functions/issues"
   },
   "dependencies": {
-    "gulp-qunit": "~1.2.1"
+    "gulp-qunit": "~1.2.1",
+    "gulp": "~3.8.11"
   }
 }
