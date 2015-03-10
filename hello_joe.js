@@ -1,12 +1,9 @@
 var hello_joe = function(USERNAME) {
-	if(USERNAME= "Joe"){
-		return"Hello";
-	}
-	else if(USERNAME === "Bob"){
-		return"Hello!";
+
+	if(USERNAME === "Joe" || USERNAME === "Bob"){
+		return "Hello";
 	}
 	else{
-		return"Hello" +" "+USERNAME;
-	}
+		return "Hello " + USERNAME;
+	} 
 }
-
